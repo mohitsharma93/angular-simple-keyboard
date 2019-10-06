@@ -1,4 +1,5 @@
 <p><img src="https://franciscohodge.com/project-pages/simple-keyboard/images/angular.png" width="60" align="center" /></p>
+<p>i use this package to impliments this see full demo on bellow url</p>
 <a href="https://simple-keyboard.com/demo" title="View Demo" target="_blank"><img src="https://franciscohodge.com/project-pages/simple-keyboard/images/simplekeyboard-banner3x.png" align="center" width="100%"></a>
 
   <p>
